@@ -1,3 +1,5 @@
+github.com/angel-one/smartapigo v0.0.0-20221003090802-47cbce38ac5c h1:17nUHJinYRx651xlat5FUZ2ciPOfpg8TcrNkXCXntuQ=
+github.com/angel-one/smartapigo v0.0.0-20221003090802-47cbce38ac5c/go.mod h1:2lgK/wnNg2njLIUsWWo4EX3wvL8sMlHwuaJXKM3m90I=
 github.com/gorilla/websocket v1.4.2 h1:+/TMaTYc4QFitKJxsQ7Yye35DkWvkdLcvGKqM+x0Ufc=
 github.com/gorilla/websocket v1.4.2/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
 github.com/jarcoal/httpmock v1.0.6 h1:e81vOSexXU3mJuJ4l//geOmKIt+Vkxerk1feQBC8D0g=
