@@ -1,4 +1,4 @@
-module github.com/admin-trade94/angel-sdk
+module github.com/gotrade94/angel-sdk
 
 go 1.18
 
