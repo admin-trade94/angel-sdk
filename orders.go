@@ -14,9 +14,9 @@ type Order struct {
 	TriggerPrice            float64 `json:"triggerprice"`
 	Quantity                string  `json:"quantity"`
 	DisclosedQuantity       string  `json:"disclosedquantity"`
-	SquareOff               string  `json:"squareoff"`
-	StopLoss                string  `json:"stoploss"`
-	TrailingStopLoss        string  `json:"trailingstoploss"`
+	SquareOff               float64 `json:"squareoff"`
+	StopLoss                float64 `json:"stoploss"`
+	TrailingStopLoss        float64 `json:"trailingstoploss"`
 	TrailingSymbol          string  `json:"trailingsymbol"`
 	TransactionType         string  `json:"transactiontype"`
 	Exchange                string  `json:"exchange"`
